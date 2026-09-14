@@ -1,0 +1,29 @@
+{
+  "version": "2.6.2",
+  "release_version": "1.0",
+  "released_at": "2026-09-14",
+  "summary": {
+    "title": "CartCo Checkout Threat Model",
+    "owner": "Rose Janelle Enomar",
+    "description": "DFD and STRIDE threat model for the CartCo e-commerce checkout flow, covering customer authentication, payment processing, order confirmation, and admin order management.",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "CartCo Checkout DFD",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.6.2",
+        "cells": [],
+        "description": "Data flow diagram of the CartCo checkout process with trust boundaries and STRIDE threats"
+      }
+    ],
+    "diagramTop": 1,
+    "reviewer": "",
+    "threatTop": 0
+  }
+}
